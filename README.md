@@ -28,7 +28,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?dona-mathew2006&show_icons=true&theme=default)
+![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?Dona-Mathew2006&show_icons=true&theme=default)
 
 ---
 
