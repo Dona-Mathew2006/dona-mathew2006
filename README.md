@@ -27,11 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?Dona-Mathew2006&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect with Me
 - 📧 Email: donamathewvarghese@gmail.com 
 
